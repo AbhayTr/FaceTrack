@@ -45,7 +45,8 @@ https://user-images.githubusercontent.com/53339132/213921247-3f46411a-23b7-4f6d-
 
  - Since the whole project was developed on a Laptop, the training capabilties of the model was restricted and hence is trained using merely 100 images per student which is pretty low as compared to the standard training requirement.
  - Even then it has a fairly high accuracy. But due to lack of proper model training, it can confuse between students and identify them incorrectly.
- - We will overcome and fix this limitation in the near future, once we get the resources needed to do the proper model training.
+ - Due to restricted computing power, it can take longer than usual by the model recognizer to recognize a student.
+ - We will overcome and fix these limitations in the near future, once we get the resources needed to do the proper model training and faster recognition.
 
 ## Credits for the Project
 

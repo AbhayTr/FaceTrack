@@ -1,6 +1,18 @@
 # FaceTrack
 An AI Based Facial Attendance System developed in 1 day for the T-Hunt Hackathon, Manipal University Jaipur.
 
+## Prerequisites to deploy and use the Web App
+  - **Python** should be installed on the system to run the Backend of the Web App.
+  - **Pip** should be installed on the system to install dependencies of the Back End of the Web App.
+  - The following packages should be installed by using pip on the system (run the following commands on Command Prompt/Terminal after installing python and pip to install them):
+    
+    ```bash
+    pip install tornado
+    pip install opencv-python
+    pip install numpy
+    pip install Pillow
+    ```
+
 ## Instructions to deploy and use the Web App
   - Donwload the project and extract the files in any folder.
   - Open Command Prompt/Terminal and navigate to the **"Backend"** folder.

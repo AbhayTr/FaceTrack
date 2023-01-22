@@ -1,6 +1,10 @@
 # FaceTrack
 An AI Based Facial Attendance System developed in 1 day for the T-Hunt Hackathon, Manipal University Jaipur.
 
+## Demo Video
+
+[![Demo Video for the System can be viewed at **https://youtu.be/sfeGzqE3O4U**](https://img.youtube.com/vi/sfeGzqE3O4U/0.jpg)](https://www.youtube.com/watch?v=sfeGzqE3O4U)
+
 ## Prerequisites to deploy and use the Web App
   - **Python** should be installed on the system to run the Backend of the Web App.
   - **Pip** should be installed on the system to install dependencies of the Back End of the Web App.
@@ -31,7 +35,7 @@ An AI Based Facial Attendance System developed in 1 day for the T-Hunt Hackathon
     
     Note: here 5000 is the port at which the HTTP Server will run and you could set it to anything you want.
   
-  - Done! The Web App is now deployed and can be accessed at **"http://localhost:5000"** (replace 5000 with the port which you used in the previous command).
+  - Done! The Web App is now deployed and can be accessed at **http://localhost:5000** (replace 5000 with the port which you used in the previous command).
   - In the Web App, first go to the Register page to register yourself in the System.
   - Then, go to the Mark Attendance page to mark your attendance for the day.
 

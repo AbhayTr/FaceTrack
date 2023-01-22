@@ -3,7 +3,7 @@ An AI Based Facial Attendance System developed in 1 day for the T-Hunt Hackathon
 
 ## Demo Video
 
-https://www.youtube.com/watch?v=sfeGzqE3O4U
+https://github.com/AbhayTr/FaceTrack/blob/main/Demo/demo.mp4
 
 ## Prerequisites to deploy and use the Web App
   - **Python** should be installed on the system to run the Backend of the Web App.

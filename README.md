@@ -18,6 +18,10 @@ An AI Based Facial Attendance System created in 1 day for T-Hunt Hackathon, Mani
     ```
     
     Note: here 5000 is the port at which the HTTP Server will run and you could set it to anything you want.
+  
+  - Done! The Web App is now deployed and can be accessed at **"http://localhost:5000"** (replace 5000 with the port which you used in the previous command).
+  - In the Web App, first go to the Register page to register yourself in the System.
+  - Then, go to the Mark Attendance page to mark your attendance for the day.
 
 ## Credits for the Project
 

@@ -11,7 +11,7 @@ An AI Based Facial Attendance System created in 1 day for T-Hunt Hackathon, Mani
     ```
     
   - Then, open a new instance of the Command Prompt/Terminal and navigate to the **"Frontend"** folder.
-  - run the following command in the **"Frontend"** directory:
+  - run the following command in the **"Frontend"** directory to start the Frontend HTTP Server:
     
     ```bash
     python -m http.server 5000

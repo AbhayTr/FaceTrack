@@ -1,5 +1,5 @@
 # FaceTrack
-An AI Based Facial Attendance System developed in 1 day for T-Hunt Hackathon, Manipal University Jaipur.
+An AI Based Facial Attendance System developed in 1 day for the T-Hunt Hackathon, Manipal University Jaipur.
 
 ## Instructions to deploy and use the Web App
   - Donwload the project and extract the files in any folder.

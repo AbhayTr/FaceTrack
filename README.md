@@ -3,7 +3,7 @@ An AI Based Facial Attendance System developed in 1 day for the T-Hunt Hackathon
 
 ## Demo Video
 
-[![Demo Video for the System can be viewed at **https://youtu.be/sfeGzqE3O4U**](https://img.youtube.com/vi/sfeGzqE3O4U/0.jpg)](https://www.youtube.com/watch?v=sfeGzqE3O4U)
+https://www.youtube.com/watch?v=sfeGzqE3O4U
 
 ## Prerequisites to deploy and use the Web App
   - **Python** should be installed on the system to run the Backend of the Web App.

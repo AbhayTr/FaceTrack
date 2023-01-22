@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/53339132/213921247-3f46411a-23b7-4f6d-
   - Developed the WebSocket Server to receive and send facial data in the form of Base64 Images.
   - Developed the SQLite Database on the backend to store registered students data and to mark and store the attendance of each student per day.
   - Developed the Frontend Script using JavaScript to take camera input from the client browser to get facial data and integrated it with the WebSocket Server by creating endpoints on the server for registration and marking attendance i.e model training from the received facial data from the registration page and then student recognition from the received facial data from the mark attendance page in the form of Base64 images.
-  - Developed the Frontend UI using HTML and Bootstrap CSS Framework to take Camera Input and User Data from the client browser in the Registration and Mark Attendance Pages, and also to do facial recognition on the frontend using opencv.js framework.
+  - Developed the Frontend UI using HTML and Bootstrap CSS Framework to take Camera Input and User Data from the client browser in the Registration and Mark Attendance Pages, and also to do facial recognition on the frontend using OpenCV.js framework.
 
 - **Mr. Nikhil Dixit ([@nikdixit](https://github.com/nikdixit))**:
   - Developed the Home Page of the Frontend using HTML and Bootstrap CSS Framework.

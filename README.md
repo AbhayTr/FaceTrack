@@ -12,3 +12,4 @@ An AI Based Facial Attendance System created in 1 day for T-Hunt Hackathon, Mani
 
 - **Mr. Nikhil Dixit ([@nikdixit](https://github.com/nikdixit))**:
   - Developed the Home Page of the Frontend using HTML and Bootstrap CSS Framework.
+  - Developed the Frontend of Register and Mark Attendance Pages using HTML and Bootstrap CSS Framework.

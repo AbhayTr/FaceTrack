@@ -35,6 +35,12 @@ An AI Based Facial Attendance System developed in 1 day for the T-Hunt Hackathon
   - In the Web App, first go to the Register page to register yourself in the System.
   - Then, go to the Mark Attendance page to mark your attendance for the day.
 
+## Limitations of the project
+
+ - Since the whole project was developed on a Laptop, the training capabilties of the model was restricted and hence is trained using merely 100 images per student which is pretty low as compared to the standard training requirement.
+ - Even then it has a fairly high accuracy. But due to lack of proper model training, it can confuse between students and identify them incorrectly.
+ - We will overcome and fix this limitation in the near future, once we get the resources needed to do the proper model training.
+
 ## Credits for the Project
 
 - **Mr. Abhay Tripathi ([@abhaytr](https://github.com/abhaytr))**:

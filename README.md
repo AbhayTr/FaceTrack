@@ -19,7 +19,7 @@ An AI Based Facial Attendance System created in 1 day for T-Hunt Hackathon, Mani
     
     Note: here 5000 is the port at which the HTTP Server will run and you could set it to anything you want.
 
-## Credits for the project
+## Credits for the Project
 
 - **Mr. Abhay Tripathi ([@abhaytr](https://github.com/abhaytr))**:
   - Developed the Whole Backend i.e. made the model trainer and model recognizer using OpenCV standard facial recognizer.

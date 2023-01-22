@@ -10,7 +10,7 @@ An AI Based Facial Attendance System created in 1 day for T-Hunt Hackathon, Mani
     python app.py
     ```
     
-  - Then navigate to the **"Frontend"** folder.
+  - Then open a new instance of the Command Prompt/Terminal and navigate to the **"Frontend"** folder.
   - run the following command in the **"Frontend"** directory:
     
     ```bash

@@ -5,6 +5,7 @@ An AI Based Facial Attendance System developed in 1 day for the T-Hunt Hackathon
   - **Python** should be installed on the system to run the Backend of the Web App.
   - **Pip** should be installed on the system to install dependencies of the Back End of the Web App.
   - The following packages should be installed by using pip on the system:
+    
     (run the following commands on Command Prompt/Terminal after installing python and pip to install them)
     
     ```bash

@@ -1,6 +1,19 @@
 # FaceTrack
 An AI Based Facial Attendance System created in 1 day for T-Hunt Hackathon, Manipal University Jaipur.
 
+## Instructions to use the Web App
+  - Donwload the project and extract files in any folder.
+  - Open Command Prompt/Terminal and navigate to the **"Backend"** folder.
+  - In the **"Backend"** folder, run the **"app.py"** file to start the Facial Recognizer AI WebSocket Server.
+  - Then navigate to the **"Frontend"** folder.
+  - run the following command in the **"Frontend"** directory:
+    
+    ```bash
+    python -m http.server 5000
+    ```
+    
+    Note: here 5000 is the port at which the HTTP Server will run and you could set it to anything you want.
+
 ## Credits for the project:
 
 - **Mr. Abhay Tripathi ([@abhaytr](https://github.com/abhaytr))**:

@@ -146,7 +146,7 @@ class MainHandler(tornado.websocket.WebSocketHandler):
                         faces = []
                         ids = []
                         for imagepath in imagepaths:
-                            if ".DS_Store" in imagepath:
+                            if ".DS_Store" in imagepath or "desc.txt" in imagepath:
                                 continue
                             else:
                                 face_img = Image.open(imagepath).convert("L")

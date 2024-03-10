@@ -15,6 +15,7 @@ https://user-images.githubusercontent.com/53339132/213921247-3f46411a-23b7-4f6d-
     ```bash
     pip install tornado
     pip install opencv-python
+    pip install opencv-contrib-python
     pip install numpy
     pip install Pillow
     ```

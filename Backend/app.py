@@ -175,7 +175,12 @@ class MainHandler(tornado.websocket.WebSocketHandler):
                             for (x, y, w, h) in faces:
                                 cid, conf = recognizer.predict(gray[y : y+h, x : x+w])
                                 cmd = "SELECT * FROM students WHERE id = '" + str(cid) + "';"
-                                cursor = self.conn.execute(cmd)
+                                cursor = None
+                                try:
+                                    cursor = self.conn.execute(cmd)
+                                except:
+                                    self.conn = create_connection("data/attendance.db")
+                                    cursor = self.conn.execute(cmd)
                                 for row in cursor:
                                     student_data = row
                         if student_data != []:
